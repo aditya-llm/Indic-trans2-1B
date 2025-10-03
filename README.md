@@ -1,8 +1,8 @@
 # Try using Indic-trans2-1B
 # try basic code from official 
       https://huggingface.co/ai4bharat/indictrans2-en-indic-1B/tree/main
-      
-      https://colab.research.google.com/github/AI4Bharat/IndicTrans2/blob/main/huggingface_interface/colab_inference.ipynb#scrollTo=6OG3Bw-sHnf3
+#
+https://colab.research.google.com/github/AI4Bharat/IndicTrans2/blob/main/huggingface_interface/colab_inference.ipynb#scrollTo=6OG3Bw-sHnf3
 # shows this error
 AttributeError: 'NoneType' object has no attribute 'shape'
 
