@@ -59,7 +59,7 @@ The script follows a five-step process for each PDF file:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/ncert-pdf-translator.git
+    git clone https://github.com/your-username/en-Indic-trans2-1B.git
     cd ncert-pdf-translator
     ```
 
