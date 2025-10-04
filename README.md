@@ -129,7 +129,7 @@ The script follows a five-step process for each PDF file:
 
 ---
 
-## 🙏 Acknowledgements
+## 📝 Acknowledgements
 
 -   **NCERT** for providing high-quality educational materials.
 -   **AI4Bharat** for creating and open-sourcing the powerful IndicTrans2 translation models.
